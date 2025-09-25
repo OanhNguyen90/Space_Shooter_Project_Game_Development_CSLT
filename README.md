@@ -26,7 +26,6 @@ Space Shooter Project phát triển bằng Python và Pygame. Người chơi đi
 * Đồ họa dạng pixel và sử dụng font tùy chỉnh.
 
 ## Cấu trúc dự án
-
 ```
 Space_Shooter_Project/
 │── .gitignore              # Quy tắc bỏ qua file của Git
@@ -46,7 +45,6 @@ Space_Shooter_Project/
 │   ├── Oxanium-Bold.ttf    # Font chữ
 └── ...
 ```
-
 ## Yêu cầu hệ thống
 
 * Python 3.8 trở lên
