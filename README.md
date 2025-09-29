@@ -97,7 +97,7 @@ python Testgame/main.py
 
 * Âm thanh: damage.ogg, explosion.wav, laser.wav, game\_music.wav
 * Font chữ: Oxanium-Bold.ttf
-* Hình ảnh: phi thuyền, thiên thạch, sao, đạn laser
+* Hình ảnh: phi thuyền, thiên thạch, sao, đạn laser, Boss, NPC (caption), background, những vật phẩm xanh, đạn rác từ Boss
 
 ## Hướng phát triển
 
