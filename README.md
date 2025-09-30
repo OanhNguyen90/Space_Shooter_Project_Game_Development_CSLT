@@ -43,7 +43,7 @@ Space_Shooter_Project/
 │   ├── player.png          # Hình ảnh phi thuyền
 │   ├── star.png            # Hình ảnh ngôi sao
 │   ├── Oxanium-Bold.ttf    # Font chữ
-└── ...
+└── Testgame.py             # File code main và khởi động Pygame
 ```
 ## Yêu cầu hệ thống
 
@@ -105,6 +105,8 @@ python Testgame/main.py
 * Tích hợp hệ thống vật phẩm hỗ trợ
 * Nâng cấp màn chơi trùm cuối
 * Tích hợp bảng xếp hạng trực tuyến
+* Tích hợp thêm phần Save Game
+* Tích hợp thêm nhiều người chơi trong cùng 1 trò/ chơi online
 
 ## Giấy phép
 
