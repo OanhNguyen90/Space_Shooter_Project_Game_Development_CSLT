@@ -1,4 +1,4 @@
-# Gợi ý cho phần phát triển "Save Game":
+# Nội dung .JSON cho phần phát triển "Save Game":
 ```
 FUNCTION save_profiles_to_file(profiles_list, global_info):
     tmp = SAVE_FILE + ".tmp"
@@ -26,7 +26,7 @@ FUNCTION save_profiles_to_file(profiles_list, global_info):
         return False
 ```
 
-# Phần phát triển cho phần "Multiplayer":
+# Nội dung .JSON cho phần phát triển "Multiplayer":
 ```
 {
   "save_version": 1,
