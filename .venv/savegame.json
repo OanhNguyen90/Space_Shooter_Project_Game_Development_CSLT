@@ -1,0 +1,20 @@
+{
+  "score": 0,
+  "high_score": 6550,
+  "difficulty": 0,
+  "level": 1,
+  "state": "PLAYING",
+  "timestamp_ms": 15270,
+  "player": {
+    "lives": 5,
+    "pos": [
+      640,
+      654
+    ],
+    "shield": false,
+    "shield_time": 0,
+    "shield_duration": 5000
+  },
+  "boss_spawned": false,
+  "boss": null
+}
